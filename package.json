@@ -1,0 +1,21 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "a dataset of the planet's most intresting places",
+  "homepage": "https://github.com/nishisurti2608/Node-Js-Scrimba#readme",
+  "bugs": {
+    "url": "https://github.com/nishisurti2608/Node-Js-Scrimba/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishisurti2608/Node-Js-Scrimba.git"
+  },
+  "license": "ISC",
+  "author": "Nishi Surti",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
